@@ -16,7 +16,7 @@ function App() {
     setResponse("");
     let mailBody = "";
 
-    if (recipient.includes("")) {
+    if (recipient.includes("yashvi")) {
       switch (code) {
         case "Maafi":
           // Handle 'Maafi' case
