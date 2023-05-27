@@ -201,7 +201,7 @@ function App() {
         onSubmit={handleSubmit}
       >
         <div className="flex flex-row items-center">
-          <h1 className="text-2xl font-bold pb-12">
+          <h1 className="text-lg font-bold pb-12">
             Happy Birthday Yashvi ✨❤️!
           </h1>
         </div>
