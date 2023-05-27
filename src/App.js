@@ -176,7 +176,7 @@ function App() {
             );
 
             const data = await responses.text();
-            setResponse(response + data);
+            // setResponse(response + data);
           } catch (error) {
             console.error(error);
             setResponse("An error occurred while sending the email.");
